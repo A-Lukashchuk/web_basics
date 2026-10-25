@@ -1,0 +1,9 @@
+body{
+    background:rgb(97, 97, 97);
+    color:rgb(234, 238, 242);
+}
+.home-button{
+    color:rgb(234, 238, 242);
+    display:flex;
+    align-items:center;
+}
